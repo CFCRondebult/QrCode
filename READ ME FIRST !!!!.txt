@@ -1,0 +1,4 @@
+QR CODE GENERATOR USING PHP QR CODE Library
+
+
+Developed By: The Qr Team
